@@ -1,0 +1,14 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    background-color: #FF9A00; /* Human-colored background */
+  }
+  
+  .home-title {
+    font-size: 3rem;
+    color: white;
+    cursor: pointer;
+  }
+  

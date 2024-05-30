@@ -1,0 +1,52 @@
+[
+    {
+        "company": "Reliance Industries",
+        "ceo": "Mukesh Ambani",
+        "description": "Mukesh Ambani is the chairman and largest shareholder of Reliance Industries, a conglomerate with interests in petrochemicals, refining, oil, telecommunications, and retail. He is one of the richest men in India."
+    },
+    {
+        "company": "Tata Group",
+        "ceo": "Natarajan Chandrasekaran",
+        "description": "Natarajan Chandrasekaran is the chairman of Tata Sons, the holding company of the Tata Group, which is India's largest and oldest conglomerate with businesses spanning multiple sectors."
+    },
+    {
+        "company": "Infosys",
+        "ceo": "Salil Parekh",
+        "description": "Salil Parekh is the CEO and Managing Director of Infosys, a multinational corporation providing business consulting, information technology, and outsourcing services."
+    },
+    {
+        "company": "HDFC Bank",
+        "ceo": "Sashidhar Jagdishan",
+        "description": "Sashidhar Jagdishan is the Managing Director and CEO of HDFC Bank, one of India's leading private sector banks, known for its strong retail banking franchise and consistent performance."
+    },
+    {
+        "company": "Wipro",
+        "ceo": "Thierry Delaporte",
+        "description": "Thierry Delaporte is the CEO and Managing Director of Wipro, a leading global information technology, consulting, and business process services company."
+    },
+    {
+        "company": "Bharti Airtel",
+        "ceo": "Gopal Vittal",
+        "description": "Gopal Vittal is the CEO of Bharti Airtel, a leading global telecommunications company with operations in 18 countries across Asia and Africa."
+    },
+    {
+        "company": "Aditya Birla Group",
+        "ceo": "Kumar Mangalam Birla",
+        "description": "Kumar Mangalam Birla is the chairman of Aditya Birla Group, a multinational conglomerate with businesses in metals, cement, textiles, carbon black, telecom, and financial services."
+    },
+    {
+        "company": "Mahindra Group",
+        "ceo": "Anand Mahindra",
+        "description": "Anand Mahindra is the chairman of Mahindra Group, a federation of companies operating in over 100 countries with interests in aerospace, agribusiness, automotive, construction, defense, and more."
+    },
+    {
+        "company": "Bajaj Auto",
+        "ceo": "Rajiv Bajaj",
+        "description": "Rajiv Bajaj is the Managing Director of Bajaj Auto, a leading manufacturer of motorcycles, scooters, and three-wheelers in India and globally."
+    },
+    {
+        "company": "HCL Technologies",
+        "ceo": "C Vijayakumar",
+        "description": "C Vijayakumar is the CEO and President of HCL Technologies, a next-generation global technology company that helps enterprises reimagine their businesses for the digital age."
+    }
+]

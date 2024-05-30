@@ -1,0 +1,109 @@
+/* Link Styles */
+a {
+    text-decoration: none;
+    color: #FF9A00;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #FFD633;
+}
+
+/* CEO Container 2 Styles */
+.ceo-container-2 {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 20px;
+    color: white;
+    background-color: #FF9A00;
+    margin-top: 40px;
+    transition: background-color 0.3s ease;
+}
+
+.ceo-container-2:hover {
+    background-color: #E58A00;
+}
+
+.ceo-container-2 > .ceo-description > .ceo-info {
+    color: white;
+    font-size: 24px;
+    transition: color 0.3s ease;
+}
+
+.ceo-container-2 > .ceo-description > .ceo-name > a {
+    color: white;
+    font-size: 32px;
+    transition: color 0.3s ease;
+}
+
+/* CEO Container Styles */
+.ceo-container {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 20px;
+    background-color: white;
+    margin-top: 40px;
+    transition: background-color 0.3s ease;
+}
+
+.ceo-container:hover {
+    background-color: #f0f0f0;
+}
+
+/* CEO Image Styles */
+.ceo-image {
+    width: 200px;
+    border-radius: 100%;
+    margin: 3%;
+    margin-top: 20px;
+    align-self: flex-start;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.ceo-image:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* CEO Description Styles */
+.ceo-description {
+    flex: 1;
+    padding: 5px;
+    text-align: left;
+    opacity: 0; /* Initially hidden */
+    animation: fade-in 1s forwards; /* Fade-in animation */
+}
+
+/* CEO Name Styles */
+.ceo-name {
+    font-size: 32px;
+    color: #FF9A00; /* Human-colored text */
+    transition: color 0.3s ease;
+}
+
+.ceo-name:hover {
+    color: #E58A00;
+}
+
+/* CEO Info Styles */
+.ceo-info {
+    font-size: 24px;
+    color: #333;
+    transition: color 0.3s ease;
+}
+
+.ceo-info:hover {
+    color: #555;
+}
+
+/* Scroll Effects */
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(50px); /* Move up 50px */
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0); /* Move back to original position */
+    }
+}
